@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Angular js**
 
-- 📫 How to reach me **ranashabi398@gmail.com**
-
 - ⚡ Fun fact **I'm funny😁**
 
 <h3 align="left">Connect with me:</h3>
